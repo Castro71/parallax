@@ -2,7 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
 
 * {
     margin: 0px;
@@ -11,7 +10,7 @@
 :root {
     --font1: font-family: Verdana, Geneva, Tahoma, sans-serif;
     --font2: 'Passion One', cursive;
-    --font3: 'Yellowtail', cursive;
+    --font3: font-family: sans-serif;
 }
 
 html,body {
